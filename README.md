@@ -3,13 +3,15 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `<Komalpreet Kaur>`
+- **CCID:** `<komalpr4>`
 
 ## References and Resources
 
 List any resources used here, or simply put `N/A` if not applicable.
-
+- Taken from Android developer, authored by Andriod developer website writers,Taken on Jan 17,2025,https://developer.android.com/reference/android/widget/EditText
+- Taken from StackOverflow, authored by Anis BEN NSIR, Taken on Jan 17,2025,://stackoverflow.com/questions/13938092/how-to-set-header-scrollable-content-and-footer-in-android
+- Take from Abhi Android, authored by the owner Abhishek; Taken on Jan 17,2025,https://abhiandroid.com/ui/edittext#gsc.tab=0
 ## Verbal Collaboration
 
 | Student Name | CCID      |
